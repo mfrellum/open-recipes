@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Mortens langpannebrød
+persons: 4
 image: 
 ---
 
