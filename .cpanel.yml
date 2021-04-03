@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/frellihw/public_html/oppskrifter
+    - export DEPLOYPATH=/public_html/oppskrifter
     - /bin/cp -R assests $DEPLOYPATH
