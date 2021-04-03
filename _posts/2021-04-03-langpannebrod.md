@@ -17,6 +17,8 @@ image: langpannebrod.jpg
 
 <!-- ad -->
 
+<!-- Zubereitung -->
+
 1. Kok opp vann
 2. Bland 7dl kaldt vann med 3dl kokende vann
 3. Bland godt salt, tørgjær, havregryn, frø og 3dl av hvetemelet i en bolle. En slikkepott fungerer bra til å blande med.
