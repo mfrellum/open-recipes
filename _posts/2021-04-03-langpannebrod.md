@@ -4,7 +4,7 @@ title: Mortens langpannebrød
 persons: 4
 image: langpannebrod.jpg
 ---
-<!-- ad -->
+<!-- Zutaten -->
 | 10dl       | lunkent vann    |
 | 1 sps (12g)| salt            |
 | 5dl        | havregryn       |
