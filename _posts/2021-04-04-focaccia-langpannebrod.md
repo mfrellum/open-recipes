@@ -7,13 +7,13 @@ image:
 
             |             
 ------------|-------------
-10dl        | lunkent vann
-1 sps (12g) | salt
-15dl        | hvetemel
-1/2 pakke   | tørrgjær
-7-10 sps    | olivenolje
-1sps        | smør/margarin
-1sp         | flaksalt
+10dl|lunkent vann
+1 sps (12g)|salt
+15dl|hvetemel
+1/2 pakke|tørrgjær
+7-10 sps|olivenolje
+1sps| smør/margarin
+1sp|flaksalt
 
 <!-- ad -->
 
