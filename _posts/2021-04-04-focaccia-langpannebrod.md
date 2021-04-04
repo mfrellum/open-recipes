@@ -5,8 +5,7 @@ persons: 4
 image: 
 ---
 <!-- -->
-|           |             |
-------------|-------------
+
 10dl|lunkent vann
 1 sps (12g)|salt
 15dl|hvetemel
