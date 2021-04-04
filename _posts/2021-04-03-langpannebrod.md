@@ -7,8 +7,10 @@ image:
 
 <!-- Zutaten -->
 
+|:-----------|:----------------|
 | 10dl       | lunkent vann    |
 | 1 sps (12g)| salt            |
+| 12dl       | hvetemel        |
 | 5dl        | havregryn       |
 | 1dl        | solsikkekjerner |
 | 1dl        | linfrø          |
