@@ -5,21 +5,16 @@ persons: 4
 image: 
 ---
 
-<!-- Zutaten -->
-|            |                 |
-|------------|-----------------|
-| 10dl       | lunkent vann    |
-| 1 sps (12g)| salt            |
-| 12dl       | hvetemel        |
-| 5dl        | havregryn       |
-| 1dl        | solsikkekjerner |
-| 1dl        | linfrø          |
-|1/2 pakke   | tørrgjær        |
-|1sps        | smør/margarin   |
+10dl|lunkent vann
+1 sps (12g)|salt
+12dl|hvetemel
+5dl|havregryn
+1dl|solsikkekjerner
+1dl|linfrø
+1/2 pakke|tørrgjær
+1sps|smør/margarin
 
 <!-- ad -->
-
-<!-- Zubereitung -->
 
 1. Kok opp vann
 2. Bland 7dl kaldt vann med 3dl kokende vann
