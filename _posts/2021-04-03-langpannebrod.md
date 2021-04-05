@@ -2,7 +2,7 @@
 layout: recipe
 title: Mortens langpannebrød
 persons: 4
-image: 
+image: langpannebrod.jpg
 ---
 
 10dl|lunkent vann
