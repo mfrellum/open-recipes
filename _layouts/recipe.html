@@ -7,8 +7,8 @@
       <h2 id="title">{{page.title}}</h2>
       {% if content contains "<!-- ad -->" %}
         <div id="ingredients">
-          {% if site.language == "de" %}
-            <h3>Zutaten für {{page.persons}} Personen:</h3>
+          {% if site.language == "no" %}
+            <h3>Nok til {{page.persons}} :</h3>
           {% elsif site.language == "en" %}
             <h3>Ingredients for {{page.persons}} persons:</h3>
           {% endif %}
@@ -23,8 +23,8 @@
         </div> <!-- /picture -->
 
         <div id="steps">
-          {% if site.language == "de" %}
-            <h3>Zubereitung:</h3>
+          {% if site.language == "no" %}
+            <h3>Tilberedelse:</h3>
           {% elsif site.language == "en" %}
             <h3>Preparation:</h3>
           {% endif %}
@@ -41,8 +41,8 @@
      <!-- /comment -->
      <div id="back">
        <a href="{{site.url}}{{site.baseurl}}/">
-         {% if site.language == "de" %}
-           zurück zur Übersicht
+         {% if site.language == "no" %}
+           tilbake til oversikt
          {% elsif site.language == "en" %}
            back to index
          {% endif %}

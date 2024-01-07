@@ -15,7 +15,8 @@ Brødsmuler|ca 3 brødskiver
 1 ts|knust svartpepper
 
 ### Kløftepoteter
-10|Middels store poteter
+
+10 | Middels store poteter
 
 ### Saus
 
