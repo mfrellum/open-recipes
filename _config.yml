@@ -18,9 +18,7 @@ owner: Familien Frellumstad
 description: > # this means to ignore newlines until "baseurl:"
   Her samler vi familieoppskrifter for familien Frellumstad
 url: "https://mfrellum.github.io" # the base hostname & protocol for your site, e.g. http://<your-name>.github.io
-language: no
-
-
+language: "no"
 permalink: /:title/
 
 # Build settings
